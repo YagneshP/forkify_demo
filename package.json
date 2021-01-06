@@ -22,7 +22,7 @@
   },
   "homepage": "https://YagneshP.github.io/forkify_demo",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "fractional": "^1.0.0",
     "gh-pages": "^3.0.0",
